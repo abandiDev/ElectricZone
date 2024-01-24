@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor.exe" "C:\Users\admin\Documents\Unreal Projects\ElectricZone\ElectricZone.uproject" /Game/ThirdPersonCPP/Maps/Lobby.umap?Listen -server -log -port=9997
